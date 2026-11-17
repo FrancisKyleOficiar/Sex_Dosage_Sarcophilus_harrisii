@@ -71,8 +71,6 @@ The figure presents the NCBI BioSample information associated with the whole-gen
 
 # QUESTIONS FOR THE REPORT
 
-# Sex-Chromosome Inference in the Tasmanian Devil (*Sarcophilus harrisii*)
-
 ## 1. Species Selection and Evidence for the Sex-Determination System
 
 The selected species is the Tasmanian devil (*Sarcophilus harrisii*), a marsupial mammal with a diploid XX/XY sex-determination system. Females possess two X chromosomes (XX), whereas males possess one X chromosome and one Y chromosome (XY).
