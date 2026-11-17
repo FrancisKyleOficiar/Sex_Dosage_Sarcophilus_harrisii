@@ -57,3 +57,10 @@ Figure 7. Autosomal and sex-chromosome depth analysis of Sarcophilus harrisii (T
 
 R analysis of sex-chromosome dosage using sex_depth_analysis.R, chromosome_coverage.tsv, and chromosome_groups.csv based on the NCBI reference genome assembly GCF_902635505.1 (mSarHar1.11). The median autosomal depth was 42.675×. The X chromosome (NC_045432.1) had an X/A ratio of 0.554, while the Y chromosome (NC_045433.1) had a Y/A ratio of 0.549. Both sex chromosomes showed approximately 55% of the median autosomal sequencing depth, resulting in an XY-like dosage interpretation. This pattern supports the presence of an XY chromosome complement in the sequenced sample. However, sequencing depth alone cannot definitively establish biological sex because coverage variation, read-mapping biases, chromosome assembly quality, and differences between the genome assembly donor and WGS sample donor may influence the results. Therefore, the inferred result should also be compared with the sex information recorded in the WGS BioSample.
 
+<img width="1598" height="863" alt="image" src="https://github.com/user-attachments/assets/7f08911d-a44c-4842-90ec-742f139bf294" />
+
+<img width="1000" height="580" alt="chromosome_depth" src="https://github.com/user-attachments/assets/aee84c78-53d1-4f35-9e48-36d255c13241" />
+
+Figure 8. The bar graph shows the relative sequencing depth of the six autosomes and two sex chromosomes (X and Y) of Sarcophilus harrisii. The six autosomal chromosomes (NC_045426.1–NC_045431.1) exhibit relatively consistent sequencing depth, with values close to 1.0, indicating that they have coverage comparable to the median autosomal depth. In contrast, the X chromosome (NC_045432.1) and Y chromosome (NC_045433.1) show noticeably lower relative depths of approximately 0.55 each. This means that both sex chromosomes have around 55% of the median autosomal coverage. The difference in bar heights suggests a reduced sequencing depth in the sex chromosomes compared with the autosomes, supporting an XY-like dosage pattern in the sample.
+
+# PART E. Interpret your results
