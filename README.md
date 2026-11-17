@@ -21,7 +21,7 @@
 
 <img width="1182" height="766" alt="image" src="https://github.com/user-attachments/assets/072bb63b-2358-48bc-bee7-0d04221fb096" />
 
-**Figure 1.**
+**Figure 1.** SRR ACCESSION
 
 <img width="1600" height="779" alt="image" src="https://github.com/user-attachments/assets/208545b3-d999-425a-8657-ff65483e8af0" />
 
